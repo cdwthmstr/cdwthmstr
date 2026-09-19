@@ -37,16 +37,10 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cdwthmstr&theme=dark&hide_border=true&background=0D1117" />
 
-<!-- TODO: github-readme-stats.vercel.app is overloaded. Deploy your own at
-     https://vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats
-     then swap the domain below for your own *.vercel.app URL. -->
-<img src="https://github-readme-stats.vercel.app/api?username=cdwthmstr&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdwthmstr&layout=compact&theme=dark&hide_border=true" width="48%" />
+<br>
 
-<!-- TODO: github-profile-trophy.vercel.app hit its Vercel usage cap. Deploy your own at
-     https://vercel.com/new/clone?repository-url=https://github.com/ryo-ma/github-profile-trophy
-     then swap the domain below for your own *.vercel.app URL. -->
-<img src="https://github-profile-trophy.vercel.app/?username=cdwthmstr&theme=darkhub&no-frame=true&row=1&column=6" />
+<img src="https://github-stats-extended.vercel.app/api?username=cdwthmstr&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cdwthmstr&layout=compact&theme=dark&hide_border=true" width="48%" />
 
 </div>
 
