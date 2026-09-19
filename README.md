@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,mui,nodejs,express,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,mui,nodejs,express,postgres,git,github,vscode,figma" />
 </div>
 
 <br>
@@ -34,10 +34,6 @@
 <br>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cdwthmstr&theme=dark&hide_border=true&background=0D1117" />
-
-<br>
 
 <img src="https://github-stats-extended.vercel.app/api?username=cdwthmstr&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cdwthmstr&layout=compact&theme=dark&hide_border=true" width="48%" />
