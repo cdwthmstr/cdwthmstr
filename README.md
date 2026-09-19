@@ -1,6 +1,6 @@
 ### Hi, I'm Master 👋
 
-**Aspiring pro player, forced to code — and it turns out I'm pretty good at it.**
+**Aspiring pro player, forced to code and it turns out I'm pretty good at it.**
 
 - 🏗️ Currently building **[Web-Based Family Tree System for Barangay San Roque](https://github.com/cdwthmstr/brgy-san-roque-system)** — a full-stack household profiling, resident verification, and analytics platform for real barangay use, as part of **Team ERROR 404**'s BSIT capstone project
 - 🧰 Stack: React + Vite + MUI on the frontend, Node/Express + Sequelize + PostgreSQL on the backend
