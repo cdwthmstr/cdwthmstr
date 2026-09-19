@@ -28,6 +28,9 @@
 
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Windsurf-58E5C2?style=for-the-badge&logo=windsurf&logoColor=white" />
+<img src="https://img.shields.io/badge/Devin_AI-6C5CE7?style=for-the-badge&logoColor=white" />
 
 </div>
 
