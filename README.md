@@ -17,5 +17,15 @@
 
 <br>
 
+**Built with a little help from:**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" />
+</div>
+
+<br>
+
 ![Profile views](https://komarev.com/ghpvc/?username=cdwthmstr&color=2d4a9e&style=flat)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cdwthmstr&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
