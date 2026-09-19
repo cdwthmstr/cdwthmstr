@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2D4A9E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Master;Vibe+coder.+Not+a+real+programmer+(yet).;I+prompt+my+way+to+production.)](https://git.io/typing-svg)
 
+![](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
+
 </div>
 
 **Aspiring pro player, forced to code.** Full transparency: I'm not a "real" programmer - I'm a vibe coder. I describe what I want, iterate fast, and lean hard on AI to get from idea to a working system. What I actually bring is product sense, patience for the details, and knowing when something is genuinely broken vs. just ugly.
@@ -33,7 +35,21 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=cdwthmstr&color=2d4a9e&style=flat)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cdwthmstr&show_icons=true&theme=dark&hide_border=true&count_private=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cdwthmstr&theme=dark&hide_border=true&background=0D1117" />
+
+<!-- TODO: github-readme-stats.vercel.app is overloaded. Deploy your own at
+     https://vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats
+     then swap the domain below for your own *.vercel.app URL. -->
+<img src="https://github-readme-stats.vercel.app/api?username=cdwthmstr&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdwthmstr&layout=compact&theme=dark&hide_border=true" width="48%" />
+
+<!-- TODO: github-profile-trophy.vercel.app hit its Vercel usage cap. Deploy your own at
+     https://vercel.com/new/clone?repository-url=https://github.com/ryo-ma/github-profile-trophy
+     then swap the domain below for your own *.vercel.app URL. -->
+<img src="https://github-profile-trophy.vercel.app/?username=cdwthmstr&theme=darkhub&no-frame=true&row=1&column=6" />
 
 </div>
+
+<br>
+
+![Profile views](https://komarev.com/ghpvc/?username=cdwthmstr&color=2d4a9e&style=flat)
