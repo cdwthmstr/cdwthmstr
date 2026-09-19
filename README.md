@@ -1,4 +1,3 @@
-![Profile views](https://komarev.com/ghpvc/?username=cdwthmstr&color=2d4a9e&style=flat)
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2D4A9E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Master;Vibe+coder.+Not+a+real+programmer+(yet).;I+prompt+my+way+to+production.)](https://git.io/typing-svg)
@@ -42,3 +41,5 @@
 </div>
 
 <br>
+
+![Profile views](https://komarev.com/ghpvc/?username=cdwthmstr&color=2d4a9e&style=flat)
