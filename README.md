@@ -8,7 +8,7 @@
 
 **Aspiring pro player, forced to code.** Full transparency: I'm not a "real" programmer - I'm a vibe coder. I describe what I want, iterate fast, and lean hard on AI to get from idea to a working system. What I actually bring is product sense, patience for the details, and knowing when something is genuinely broken vs. just ugly.
 
-- Built a full-stack household profiling, resident verification, and analytics platform for a real local barangay, as part of **Team ERROR 404**'s BSIT capstone project - private repo, since it handles real resident data
+- Built a full-stack household profiling, resident verification, and analytics platform for a real local barangay, as part of **Team ERROR 404**'s BSIT capstone project - source is private (handles real resident data), but there's a [screenshot/demo preview](https://github.com/cdwthmstr/brgy-san-roque-system-preview)
 - Stack: React + Vite + MUI on the frontend, Node/Express + Sequelize + PostgreSQL on the backend
 - Shipped role-based access control, soft-delete/archive workflows, audit logging, automated backups, and a bulk legacy-data import pipeline
 - Currently leveling up on responsive design and deployment (Railway/Vercel)
