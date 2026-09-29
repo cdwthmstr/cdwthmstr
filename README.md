@@ -11,7 +11,7 @@
 - Built a full-stack household profiling, resident verification, and analytics platform for a real local barangay, as part of **Team ERROR 404**'s BSIT capstone project - source is private (handles real resident data), but there's a [screenshot/demo preview](https://github.com/cdwthmstr/brgy-san-roque-system-preview)
 - Stack: React + Vite + MUI on the frontend, Node/Express + Sequelize + PostgreSQL on the backend
 - Shipped role-based access control, soft-delete/archive workflows, audit logging, automated backups, and a bulk legacy-data import pipeline
-- Currently leveling up on responsive design and deployment (Railway/Vercel)
+- Deployed on Railway/Vercel, responsive polish across devices still needs work, core features took priority under deadline pressure
 - Ask me about barangay systems, or how I spent way too many late nights making sure AI-written logic actually did what it was supposed to
 
 <br>
