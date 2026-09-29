@@ -6,7 +6,7 @@
 
 </div>
 
-**Aspiring pro player, forced to code.** Full transparency: I'm not a traditional programmer, I build by directing AI, describing what I want and iterating fast until it works. What I bring is product sense, patience for the details, and knowing when something's genuinely broken vs. just ugly.
+**Aspiring Network & Systems Administrator.** Full transparency: I'm not a traditional programmer, I build by directing AI, describing what I want and iterating fast until it works. What I bring is product sense, patience for the details, and knowing when something's genuinely broken vs. just ugly.
 
 - Built a full-stack household profiling, resident verification, and analytics platform for a real local barangay, as part of **Team ERROR 404**'s BSIT capstone project - source is private (handles real resident data), but there's a [screenshot/demo preview](https://github.com/cdwthmstr/brgy-san-roque-system-preview)
 - Stack: React + Vite + MUI on the frontend, Node/Express + Sequelize + PostgreSQL on the backend
