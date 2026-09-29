@@ -12,7 +12,7 @@
 - Stack: React + Vite + MUI on the frontend, Node/Express + Sequelize + PostgreSQL on the backend
 - Shipped role-based access control, soft-delete/archive workflows, audit logging, automated backups, and a bulk legacy-data import pipeline
 - Currently leveling up on responsive design and deployment (Railway/Vercel)
-- Ask me about barangay systems, database schema design, or why I was up at 2 AM fixing a Sequelize hook
+- Ask me about barangay systems, or how I spent way too many late nights making sure AI-written logic actually did what it was supposed to
 
 <br>
 
