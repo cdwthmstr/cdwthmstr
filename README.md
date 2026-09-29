@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 <img src="https://img.shields.io/badge/Windsurf-58E5C2?style=for-the-badge&logo=windsurf&logoColor=white" />
 <img src="https://img.shields.io/badge/Devin_AI-6C5CE7?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logoColor=white" />
 
 </div>
 
