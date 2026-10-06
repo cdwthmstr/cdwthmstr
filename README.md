@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2D4A9E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Master;Not+a+traditional+programmer%2C+I+build+by+directing+AI.;Idea+to+a+working+system%2C+iterating+fast.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2D4A9E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Master;)](https://git.io/typing-svg)
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
